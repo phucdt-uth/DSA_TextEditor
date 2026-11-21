@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="TextEditorUndoRedo/TextEditorUndoRedo.vcxproj" Id="0e2ea248-24df-4140-84ca-467b9d3438c6" />
+</Solution>
